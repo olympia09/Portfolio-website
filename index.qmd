@@ -1,0 +1,23 @@
+---
+title: "CID 02518535"
+image: data_science.jpg
+about: 
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links: 
+  - icon: github
+    href: https://github.com/olympia09
+    text: Github
+  - icon: envelope
+    text: Contact me
+    href: mailto:oi123@ic.ac.uk
+---
+
+<div style="max-width: 800px; margin: 0 auto; text-align: left;">
+
+Hello! I'm \[CID 02518535\]. I completed my undergraduate studies in Mathematics and Statistics at the University of Cyprus and am currently pursuing my master's degree in Statistics at Imperial College London. I created this portfolio to demonstrate my growing knowledge and skills in data science.
+
+I invite you to explore my detailed projects where I showcase the methodologies and techniques I have learned. Visit the [Projects Page](projects.qmd) to learn more. I'm always excited to connect with fellow data enthusiasts, professionals, and potential collaborators. Feel free to reach out to me using the contact buttons below.
+
+Thank you for visiting my portfolio!

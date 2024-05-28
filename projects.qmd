@@ -1,0 +1,14 @@
+---
+title: "Projects"
+listing: 
+  contents: projects
+  type: grid
+  fields: [image, title, subtitle]
+  sort: priority asc
+---
+
+## About this site
+
+Welcome to the projects section of my portfolio. Here, you will find detailed case studies of some projects I have worked on. They demonstrate my data science knowledge, covering essential skills in areas such as data handling and preprocessing, exploratory data analysis, machine learning, clustering, dimensionality reduction, web scraping, data visualization and function creation and documentation.
+
+Feel free to explore each project to see detailed explanations, code snippets, visualizations, and results. If you have any questions about my projects, please don't hesitate to contact me!

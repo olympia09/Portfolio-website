@@ -1,0 +1,10 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/project_1_pol_regression/project_1_pol_regression.html",
+      "/projects/project_2_web_scraping/project_2_web_scraping.html",
+      "/projects/project_3_clustering/project_3_clustering.html"
+    ]
+  }
+]
